@@ -1,0 +1,5 @@
+/Users/jerryswenson/Projects/Switch/Switch/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/jerryswenson/Projects/Switch/Switch/bin/Debug/Switch.exe.mdb
+/Users/jerryswenson/Projects/Switch/Switch/bin/Debug/Switch.exe
+/Users/jerryswenson/Projects/Switch/Switch/obj/x86/Debug/Switch.exe
+/Users/jerryswenson/Projects/Switch/Switch/obj/x86/Debug/Switch.exe.mdb

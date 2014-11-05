@@ -1,0 +1,5 @@
+/Users/jerryswenson/Projects/Booleans/Booleans/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/jerryswenson/Projects/Booleans/Booleans/bin/Debug/Booleans.exe.mdb
+/Users/jerryswenson/Projects/Booleans/Booleans/bin/Debug/Booleans.exe
+/Users/jerryswenson/Projects/Booleans/Booleans/obj/x86/Debug/Booleans.exe
+/Users/jerryswenson/Projects/Booleans/Booleans/obj/x86/Debug/Booleans.exe.mdb

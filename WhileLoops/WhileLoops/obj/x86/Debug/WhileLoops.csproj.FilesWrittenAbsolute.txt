@@ -1,0 +1,5 @@
+/Users/jerryswenson/Projects/WhileLoops/WhileLoops/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/jerryswenson/Projects/WhileLoops/WhileLoops/bin/Debug/WhileLoops.exe.mdb
+/Users/jerryswenson/Projects/WhileLoops/WhileLoops/bin/Debug/WhileLoops.exe
+/Users/jerryswenson/Projects/WhileLoops/WhileLoops/obj/x86/Debug/WhileLoops.exe
+/Users/jerryswenson/Projects/WhileLoops/WhileLoops/obj/x86/Debug/WhileLoops.exe.mdb

@@ -1,0 +1,5 @@
+/Users/jerryswenson/Projects/ProgramFlow/ProgramFlow/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/jerryswenson/Projects/ProgramFlow/ProgramFlow/bin/Debug/ProgramFlow.exe.mdb
+/Users/jerryswenson/Projects/ProgramFlow/ProgramFlow/bin/Debug/ProgramFlow.exe
+/Users/jerryswenson/Projects/ProgramFlow/ProgramFlow/obj/x86/Debug/ProgramFlow.exe
+/Users/jerryswenson/Projects/ProgramFlow/ProgramFlow/obj/x86/Debug/ProgramFlow.exe.mdb

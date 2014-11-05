@@ -1,0 +1,5 @@
+/Users/jerryswenson/Projects/ForLoops/ForLoops/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/jerryswenson/Projects/ForLoops/ForLoops/bin/Debug/ForLoops.exe.mdb
+/Users/jerryswenson/Projects/ForLoops/ForLoops/bin/Debug/ForLoops.exe
+/Users/jerryswenson/Projects/ForLoops/ForLoops/obj/x86/Debug/ForLoops.exe
+/Users/jerryswenson/Projects/ForLoops/ForLoops/obj/x86/Debug/ForLoops.exe.mdb
