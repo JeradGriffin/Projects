@@ -1,0 +1,5 @@
+/Users/jerryswenson/Projects/Objects/Objects/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/jerryswenson/Projects/Objects/Objects/bin/Debug/Objects.exe.mdb
+/Users/jerryswenson/Projects/Objects/Objects/bin/Debug/Objects.exe
+/Users/jerryswenson/Projects/Objects/Objects/obj/x86/Debug/Objects.exe
+/Users/jerryswenson/Projects/Objects/Objects/obj/x86/Debug/Objects.exe.mdb

@@ -1,0 +1,5 @@
+/Users/jerryswenson/Projects/EnumeratedConstants/EnumeratedConstants/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/jerryswenson/Projects/EnumeratedConstants/EnumeratedConstants/bin/Debug/EnumeratedConstants.exe.mdb
+/Users/jerryswenson/Projects/EnumeratedConstants/EnumeratedConstants/bin/Debug/EnumeratedConstants.exe
+/Users/jerryswenson/Projects/EnumeratedConstants/EnumeratedConstants/obj/x86/Debug/EnumeratedConstants.exe
+/Users/jerryswenson/Projects/EnumeratedConstants/EnumeratedConstants/obj/x86/Debug/EnumeratedConstants.exe.mdb

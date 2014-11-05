@@ -1,0 +1,5 @@
+/Users/jerryswenson/Projects/Classes2/Classes2/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/jerryswenson/Projects/Classes2/Classes2/bin/Debug/Classes2.exe.mdb
+/Users/jerryswenson/Projects/Classes2/Classes2/bin/Debug/Classes2.exe
+/Users/jerryswenson/Projects/Classes2/Classes2/obj/x86/Debug/Classes2.exe
+/Users/jerryswenson/Projects/Classes2/Classes2/obj/x86/Debug/Classes2.exe.mdb
